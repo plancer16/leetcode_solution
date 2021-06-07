@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2159e5-8a7d-417e-bb06-d90bdc8e621f" name="Default Changelist" comment="" />
+    <list default="true" id="3d2159e5-8a7d-417e-bb06-d90bdc8e621f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/all.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +16,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[1143]最长公共子序列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="48" selection-start-line="48" selection-end-line="72" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -34,6 +48,15 @@
         <option value="$PROJECT_DIR$/[232]用栈实现队列.java" />
         <option value="$PROJECT_DIR$/[46]全排列.java" />
         <option value="$PROJECT_DIR$/[47]全排列 II.java" />
+        <option value="$PROJECT_DIR$/[70]爬楼梯.java" />
+        <option value="$PROJECT_DIR$/[144]二叉树的前序遍历.java" />
+        <option value="$PROJECT_DIR$/[104]二叉树的最大深度.java" />
+        <option value="$PROJECT_DIR$/[110]平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/[151]翻转字符串里的单词.java" />
+        <option value="$PROJECT_DIR$/[199]二叉树的右视图.java" />
+        <option value="$PROJECT_DIR$/[300]最长递增子序列.java" />
+        <option value="$PROJECT_DIR$/[718]最长重复子数组.java" />
+        <option value="$PROJECT_DIR$/[1143]最长公共子序列.java" />
       </list>
     </option>
   </component>
@@ -47,10 +70,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="856" />
-    <option name="height" value="1026" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="858" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,7 +96,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,7 +135,10 @@
       <updated>1622812187169</updated>
       <workItem from="1622812188637" duration="434000" />
       <workItem from="1622854767504" duration="11363000" />
-      <workItem from="1622896989399" duration="962000" />
+      <workItem from="1622896989399" duration="1088000" />
+      <workItem from="1622968662658" duration="6150000" />
+      <workItem from="1622976437909" duration="1363000" />
+      <workItem from="1623026953622" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="6.4">
       <created>1622812311176</created>
@@ -128,16 +154,24 @@
       <option name="project" value="LOCAL" />
       <updated>1622897806819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="6.5-9">
+      <created>1622898011529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622898011529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12759000" />
+    <option name="totallyTimeSpent" value="23387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20653515" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19112207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -153,7 +187,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.6869773" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.33691755" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.12783751" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3297491" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
@@ -163,7 +197,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.19667077" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.19482121" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
       <window_info anchor="right" id="Key Promoter X" order="8" />
@@ -279,6 +313,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[70]爬楼梯.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[144]二叉树的前序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="81" column="26" lean-forward="true" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[104]二叉树的最大深度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[110]平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[151]翻转字符串里的单词.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="85" column="54" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[199]二叉树的右视图.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[300]最长递增子序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[718]最长重复子数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1143]最长公共子序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="48" selection-start-line="48" selection-end-line="72" selection-end-column="1" />
         </state>
       </provider>
     </entry>
