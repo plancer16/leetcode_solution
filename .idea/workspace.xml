@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d2159e5-8a7d-417e-bb06-d90bdc8e621f" name="Default Changelist" comment="6.8-6">
+      <change afterPath="$PROJECT_DIR$/[112]路径总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[136]只出现一次的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[82]删除排序链表中的重复元素 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[83]删除排序链表中的重复元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/all.json" afterDir="false" />
     </list>
@@ -18,7 +23,22 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[69]x 的平方根.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/[8]字符串转换整数 (atoi).java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,6 +83,11 @@
         <option value="$PROJECT_DIR$/[83]删除排序链表中的重复元素.java" />
         <option value="$PROJECT_DIR$/[82]删除排序链表中的重复元素 II.java" />
         <option value="$PROJECT_DIR$/[136]只出现一次的数字.java" />
+        <option value="$PROJECT_DIR$/[剑指 Offer 27]二叉树的镜像.java" />
+        <option value="$PROJECT_DIR$/[15]三数之和.java" />
+        <option value="$PROJECT_DIR$/[72]编辑距离.java" />
+        <option value="$PROJECT_DIR$/[64]最小路径和.java" />
+        <option value="$PROJECT_DIR$/[69]x 的平方根.java" />
       </list>
     </option>
   </component>
@@ -89,8 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,6 +125,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +174,8 @@
       <workItem from="1623113624981" duration="18497000" />
       <workItem from="1623160491056" duration="659000" />
       <workItem from="1623208835298" duration="1208000" />
-      <workItem from="1623244719988" duration="3230000" />
+      <workItem from="1623244719988" duration="6288000" />
+      <workItem from="1623295095698" duration="5660000" />
     </task>
     <task id="LOCAL-00001" summary="6.4">
       <created>1622812311176</created>
@@ -186,16 +212,24 @@
       <option name="project" value="LOCAL" />
       <updated>1623148307544</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6.9-4">
+      <created>1623248048581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623248048581</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47813000" />
+    <option name="totallyTimeSpent" value="56531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23057953" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22934648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -209,9 +243,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49815044" visible="true" weight="0.42293906" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49815044" weight="0.4014337" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018496" side_tool="true" visible="true" weight="0.42293906" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018496" side_tool="true" weight="0.24014337" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3297491" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
@@ -221,7 +255,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.26387176" />
+      <window_info active="true" anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.18988903" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Word Book" order="7" side_tool="true" />
       <window_info anchor="right" id="Key Promoter X" order="8" />
@@ -238,7 +272,9 @@
     <MESSAGE value="6.4" />
     <MESSAGE value="6.5-9" />
     <MESSAGE value="6.8-another 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.8-another 4" />
+    <MESSAGE value="6.8-6" />
+    <MESSAGE value="6.9-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.9-4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/[100]相同的树.java">
@@ -407,13 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/[169]多数元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/[105]从前序与中序遍历序列构造二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -512,6 +541,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[169]多数元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[剑指 Offer 27]二叉树的镜像.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[15]三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="76" column="5" lean-forward="true" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[72]编辑距离.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[64]最小路径和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[8]字符串转换整数 (atoi).java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[69]x 的平方根.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
         </state>
       </provider>
     </entry>
